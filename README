@@ -1,6 +1,6 @@
 Copyright 2012 Rentrak Corporation
 
-perl-dcpu16-emu is a colaberation of developers from Rentrak Corp.
+perl-dcpu16-emu is a collaboration of developers from Rentrak Corp.
 working to develop an open source emulator for the DCPU16 specification
 as provided by "Notch" at http://0x10c.com/doc/dcpu-16.txt for the game 0x10c.
 This project was created internally on April 11th, 2012.
